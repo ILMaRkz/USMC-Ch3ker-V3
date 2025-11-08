@@ -1,1 +1,97 @@
+⚔️ USMC-Ch3ker
 
+> 🧠 Advanced Minecraft Account Checker
+⚡ Blazing-fast • 💎 Accurate • 🔥 Multi-featured
+
+
+
+
+---
+
+🪄 What is USMC-Ch3ker?
+
+USMC-Ch3ker is a next-generation Minecraft account checker built for speed, precision, and style.
+It scans, validates, and logs accounts with powerful filtering options — all displayed with sleek real-time output.
+
+
+---
+
+💥 Main Features
+
+> ✨ Everything you need in one tool:
+
+
+
+✅ Valid Mail Checker – Detects active Minecraft accounts
+
+🎯 Hypixel Rank Scanner – Finds Hypixel-linked accounts instantly
+
+🧥 OptiFine Cape Detector – Detects accounts with OptiFine capes
+
+🔐 NFA / MFA / 2FA – Identifies account security levels
+
+💥 Hit Logger – Logs valid hits automatically
+
+🧭 Proxy Support – Supports HTTP, HTTPS, SOCKS4, SOCKS5 with rotation
+
+⚙️ Multi-threaded System – Fast & efficient scanning
+
+📊 Live Logging UI – Animated console + progress display
+
+
+
+---
+
+🌍 Proxy Setup
+
+proxies.txt
+---------------
+ip:port
+ip:port:username:password
+
+Example Command:
+
+python usmc_ch3ker.py --combos combos.txt --proxy-file proxies.txt --proxy-type socks5 --threads 50
+
+
+---
+
+💾 Download & Setup
+
+> 🧩 Download the latest versions 
+
+> 💬 Join our Discord Server for support & updates:
+
+[Click to join](https://discord.gg/CMxSWnhezv)
+
+---
+
+⚙️ Example Config
+
+{
+  "combos": "combos.txt",
+  "proxy_file": "proxies.txt",
+  "proxy_type": "socks5",
+  "threads": 50,
+  "rotation": "random",
+  "timeout": 10,
+  "output": "hits.txt"
+}
+
+
+---
+
+🧠 Important Notice
+
+> ⚠️ This tool is for educational and security testing purposes only.
+Any misuse is strictly prohibited.
+You are fully responsible for your actions.
+
+
+
+
+---
+
+💬 Made by rtx4400. , mynex.ggڤ & USMC Team
+
+> 🕹️ Precision • Performance • Power
